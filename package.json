@@ -18,6 +18,7 @@
   "homepage": "https://github.com/yshaia7/firstproject#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "memory-cache": "^0.2.0"
+    "memory-cache": "^0.2.0",
+    "node-cache": "^4.2.0"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "description": "avi and ishaia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yshaia7/firstproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yshaia7/firstproject/issues"
+  },
+  "homepage": "https://github.com/yshaia7/firstproject#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "memory-cache": "^0.2.0"
+  }
+}
